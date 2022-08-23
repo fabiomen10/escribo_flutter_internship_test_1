@@ -1,11 +1,11 @@
-# Flutter app template
-The [Flutter](https://flutter.dev/) template, configured for [Gitpod](https://www.gitpod.io) to give you pre-built, ephemeral development environments in the cloud.
+# Dart terminal app template
+The [Dart](https://dart.dev/) template, configured for [Gitpod](https://www.gitpod.io) to give you pre-built, ephemeral development environments in the cloud.
 
 ## Next Steps
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-flutter)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/fabiomen10/escribo_flutter_internship_test_1)
 
 ## Get Started With Your Own Project
 
