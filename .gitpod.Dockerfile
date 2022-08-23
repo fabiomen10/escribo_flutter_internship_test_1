@@ -4,4 +4,7 @@ FROM gitpod/workspace-base:latest
 # Install custom tools, runtime, etc.
 # base image only got `apt` as the package manager
 # install-packages is a wrapper for `apt` that helps skip a few commands in the docker env.
-RUN sudo install-packages shellcheck tree llvm
+# RUN sudo install-packages shellcheck tree llvm
+
+# To install the Dart SDK 
+RUN brew tap dart-lang/dart && brew install dart
