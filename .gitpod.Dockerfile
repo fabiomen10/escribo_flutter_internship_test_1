@@ -7,4 +7,4 @@ FROM gitpod/workspace-base:latest
 # RUN sudo install-packages shellcheck tree llvm
 
 # To install the Dart SDK 
-RUN brew tap dart-lang/dart && brew install dart
+RUN sudo install-packages install dart
