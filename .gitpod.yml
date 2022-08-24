@@ -4,3 +4,5 @@ vscode:
   extensions:
     - dart-code.dart-code
     - dart-code.flutter
+tasks:
+  - command: dart run escribo_test1.dart
