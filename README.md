@@ -3,7 +3,7 @@ The [Dart](https://dart.dev/) template, configured for [Gitpod](https://www.gitp
 
 ## Next Steps
 
-Click the button below to start a new development environment:
+Click the button below to start this development environment:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/fabiomen10/escribo_flutter_internship_test_1)
 
